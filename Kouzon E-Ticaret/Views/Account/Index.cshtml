@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Kouzon_E_Ticaret.Models.UserOrderModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <div class="row">
+       <div class="text-green col-md-12">
+            <h2 class="m-3">Sipariş Bilgileriniz</h2>
+
+            <table class="text-green table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Sipariş Numarası</th>
+                        <th>Sipariş Tarihi</th>
+                        <th>Sipariş Tutarı</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody class="text-white">
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.OrderNumber </td>
+                            <td>@item.OrderDate.ToShortDateString() </td>
+                            <td>
+                                <i class="fa fa-try" aria-hidden="true"></i>
+                                @item.Total
+                            </td>
+                            <td>@item.OrderState</td>
+                            <td>
+                                @Html.ActionLink("Detaylar", "Details", new { id = @item.Id }, new { @class = "btn btn-success" })
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

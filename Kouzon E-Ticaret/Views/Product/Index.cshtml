@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Kouzon_E_Ticaret.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container p-5">
+
+    <h2 class="text-green">Yeni Ürün</h2>
+    <hr class="bg-white"/>
+
+    <p>
+        @Html.ActionLink("Yeni Ürün Ekle", "Create", null, new { @class = "btn btn-success" })
+    </p>
+    <table class="table table-bordered table-striped text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsHome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsApproved)
+            </th>
+            
+            <th style="width:10rem;"></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td>
+            <img src="~/Upload/@item.Image" width="70px" alt="Alternate Text" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Category.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @if (item.IsHome)
+            {
+                <label class="badge badge-success">
+                    <i class="fa-solid fa-circle-check"></i>
+                    Evet
+                </label>
+            }
+            else
+            {
+                <label class="badge badge-danger">
+                    <i class="fa-solid fa-circle-xmark"></i>
+                    Hayır
+                </label>
+            }
+        </td>
+        <td>
+            @if (item.IsHome)
+            {
+                <label class="badge badge-success">
+                    <i class="fa-solid fa-circle-check"></i>
+                    Evet
+                </label>
+            }
+            else
+            {
+                <label class="badge badge-danger">
+                    <i class="fa-solid fa-circle-xmark"></i>
+                    Hayır
+                </label>
+            }
+        </td>
+        <td class="text-center">
+            @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }, new { @class = "btn btn-success btn-sm" })
+            @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+        </td>
+    </tr>
+        }
+
+    </table>
+</div>

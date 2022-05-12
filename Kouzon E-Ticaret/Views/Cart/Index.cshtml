@@ -1,0 +1,82 @@
+﻿@model Kouzon_E_Ticaret.Models.Cart
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container my-5 p-5">
+    <div class="row">
+        <h2 class="text-green m-3">Alışveriş Sepeti</h2>
+        <hr class="bg-white" /> <br />
+
+        @if (Model.CartLines.Count > 0)
+        {
+            <table class="table table-bordered text-white">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Miktar</th>
+                        <th>Ürün İsmi</th>
+                        <th>Fiyat</th>
+                        <th>Toplam</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartLines)
+                    {
+                        <tr>
+                            <td>
+                                <img src="~/Upload/@item.Product.Image" width="50" />
+                            </td>
+                            <td>
+                                @item.Quantity
+                            </td>
+                            <td>
+                                @item.Product.Name
+                            </td>
+                            <td>@item.Product.Price</td>
+                            <td>@(item.Product.Price*item.Quantity)</td>
+                            <td>
+                                @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                                {
+                                    @Html.Hidden("Id", item.Product.Id)
+                                    <button class="btn btn-danger" type="submit">
+                                        <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                        Sil
+                                    </button>
+                                }
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5"></td>
+                        <td>
+                            @Model.Total().ToString("c")
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="text-center">
+                <a class="btn bg-green" href="/Home/UrunList">Alışverişe Devam Et</a>
+                <a class="btn bg-green" href="/Cart/Checkout">Alışverişi Tamamla</a>
+            </div>
+
+            
+        }
+        else
+        {
+            <div class="container">
+                <div class="alert alert-warning" role="alert">
+                    i) Alışveriş Sepetinizde Ürün Bulunmamaktadır.
+                </div>
+            </div>
+        }
+
+
+
+    </div>
+</div>
+

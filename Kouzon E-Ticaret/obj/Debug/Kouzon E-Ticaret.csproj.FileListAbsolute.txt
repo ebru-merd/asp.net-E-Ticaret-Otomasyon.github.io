@@ -1,0 +1,154 @@
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.dll.config
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.pdb
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.exe
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.exe.config
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.rsp
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.exe
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.exe.config
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.rsp
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.exe
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.exe.config
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.rsp
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Helpers.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Mvc.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Razor.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Razor.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Helpers.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Mvc.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csproj.AssemblyReference.cache
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csproj.CoreCompileInputs.cache
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csproj.CopyComplete
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.pdb
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Buffers.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Memory.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Newtonsoft.Json.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Owin.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\90537\Desktop\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Newtonsoft.Json.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.dll.config
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Kouzon E-Ticaret.pdb
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.exe
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.exe.config
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csc.rsp
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.exe
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.exe.config
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\csi.rsp
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Buffers.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Memory.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.exe
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.exe.config
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\vbc.rsp
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.SqlServer.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Newtonsoft.Json.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Owin.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Helpers.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Mvc.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Razor.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\EntityFramework.SqlServer.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\Newtonsoft.Json.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Razor.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Helpers.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\bin\System.Web.Mvc.xml
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csprojAssemblyReference.cache
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csproj.CoreCompileInputs.cache
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.csproj.CopyComplete
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.dll
+C:\Users\Brandium\OneDrive\Resimler\Masaüstü\Kouzon E-Ticaret\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.pdb
+C:\Users\90537\Desktop\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.dll
+C:\Users\90537\Desktop\Kouzon E-Ticaret\obj\Debug\Kouzon E-Ticaret.pdb

@@ -1,0 +1,24 @@
+body{
+    background-color: #3e3e3e;
+}
+.bg-genel{
+    background-color: #3e3e3e;
+}
+.search-width{
+    width: 300px !important;
+}
+.bg-koyu{
+    background-color: #272727;
+}
+.bg-green{
+    background-color: #27A659;
+}
+.text-green{
+    color: #27A659;
+}
+#card-resim img{
+    width:250px;
+    height:200px;
+}
+#resim-boyut{
+}

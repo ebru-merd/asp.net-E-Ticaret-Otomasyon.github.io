@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Kouzon_E_Ticaret.Entity.Category>
+
+@{
+    var selectedCategory = Url.RequestContext.RouteData.Values["id"];
+
+}
+
+<div class="container">
+    <div class="row justify-content-around p-4">
+        @foreach (var item in Model)
+        {
+            if (selectedCategory != null)
+            {
+                if (item.Id == int.Parse(selectedCategory.ToString())) //Seçilen kategoriyi aktif yapıyoruz
+                {
+                    <a class="alert-link text-green" href="~/Home/UrunList/@item.Id">@item.Name</a>
+                }
+                else
+                {
+                    <a class="alert-link text-white" href="~/Home/UrunList/@item.Id">@item.Name</a>
+                }
+            }
+            else
+            {
+                <a class="alert-link text-white" href="~/Home/UrunList/@item.Id">@item.Name</a>
+            }
+
+        }
+    </div>
+</div>
+

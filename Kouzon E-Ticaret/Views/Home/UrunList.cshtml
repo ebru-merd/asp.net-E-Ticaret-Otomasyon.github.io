@@ -1,0 +1,49 @@
+﻿@using Kouzon_E_Ticaret.Models;
+@model IEnumerable<ProductModel>
+@{
+    ViewBag.Title = "UrunList";
+}
+
+
+<div class="container">
+    <div class="row">
+
+        @if (Model.Count() == 0)
+        {
+            <div class="col-md-12 mt-5">
+                <div class="alert alert-warning"><i class="fa-solid fa-circle-info"></i> Bu kategoriye ait ürün bulunamadı...</div>
+            </div>
+        }
+        else
+        {
+            <div class="col-md-12 mt-5">
+                <div class="alert alert-info"><i class="fa-solid fa-circle-info"></i> <strong>@Model.Count()</strong> adet ürün bulundu.</div>
+            </div>
+        }
+
+        <div class="col-md-12">
+            <div class="row">
+                @foreach (var urun in Model)
+                {
+                    <div class="col-md-3 mt-3">
+                        <div id="card-resim" class="card bg-koyu text-white" style="width: 16rem;">
+                            <img id="resim-boyut" class="card-img-top p-4" src="~/Upload/@urun.Image" alt="@urun.Name">
+                            <div class="card-body">
+                                <p class="card-text">
+                                    <a href="/Home/Urun/@urun.Id">@urun.Name</a>
+                                </p>
+                                <p class="card-text">@urun.Description</p>
+                                <h5 class="card-title">@urun.Price TL</h5>
+                                    <a href="/Home/Urun/@urun.Id" class="btn btn-success bg-green w-100">
+                                        Ürünü İncele >>
+                                    </a>
+                               
+                                <a href="#" class="card-link ml-4"><i class="fa-solid fa-circle-star"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

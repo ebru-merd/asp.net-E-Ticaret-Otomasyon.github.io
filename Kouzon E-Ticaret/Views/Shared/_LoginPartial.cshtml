@@ -1,0 +1,27 @@
+﻿
+<ul class="navbar-nav ml-3">
+
+    @if (Request.IsAuthenticated)
+    {
+        //Kullanıcı adını ve logout linklerini çıkar
+
+        <li class="nav-item ml-5">
+            <a class="nav-link text-white text-center" href="/Account"><i class="fa-solid fa-user"></i><br>@User.Identity.Name </a>
+        </li>
+        <li class="nav-item ml-2">
+            <a class="nav-link text-white text-center" href="/Account/Logout"><i class="fa-solid fa-user-slash"></i><br>Çıkış </a>
+        </li>
+    }
+    else
+    {
+        //login register liklerini çıkar
+        <li class="nav-item ml-5">
+            <a class="nav-link text-white text-center" href="/Account/Login"><i class="fa-solid fa-user"></i><br />Giriş </a>
+        </li>
+        <li class="nav-item ml-2">
+            <a class="nav-link text-white text-center" href="/Account/Register"><i class="fa-solid fa-address-card"></i><br>Kayıt Ol </a>
+        </li>
+    }
+
+
+</ul>
